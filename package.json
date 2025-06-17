@@ -1,11 +1,11 @@
 {
-  "name": "robo-coasters-example",
+  "name": "pgats-programacao",
   "version": "1.0.0",
   "type": "module",
-  "description": "An example for Mutation Testing",
+  "description": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/stryker-mutator/robo-coasters-example"
+    "url": "git+https://github.com/barbaraWagner15/pgats-programacao-js.git"
   },
   "main": "index.js",
   "scripts": {
